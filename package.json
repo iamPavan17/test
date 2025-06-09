@@ -1,4 +1,13 @@
 {
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test 1 Test 2 Test 3 Test 4 Test 5 Test 6 Test 7 Test 8",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "gitrain": "^1.0.2"
   }
