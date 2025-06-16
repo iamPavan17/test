@@ -1,0 +1,12 @@
+{
+  "tracker": "jira",
+  "trackerPrefix": "JIRA-",
+  "baseBranch": "develop",
+  "emojiMap": {
+    "feat": "🦄",
+    "fix": "🐞",
+    "docs": "📘",
+    "refactor": "🧹",
+    "test": "🧪"
+  }
+}
