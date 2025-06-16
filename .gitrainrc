@@ -1,5 +1,0 @@
-{
-  "tracker": "jira",
-  "trackerPrefix": "JIRA-",
-  "baseBranch": "develop"
-}
