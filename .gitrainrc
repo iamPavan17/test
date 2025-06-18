@@ -1,5 +1,12 @@
 {
   "tracker": "jira",
   "trackerPrefix": "JIRA-",
-  "baseBranch": "develop"
+  "baseBranch": "develop",
+  "commitTypes": {
+    "feat": "🦄",
+    "fix": "🐞",
+    "docs": "📘",
+    "refactor": "🧹",
+    "test": "🧪"
+  }
 }
