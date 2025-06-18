@@ -8,5 +8,6 @@
     "docs": "📘",
     "refactor": "🧹",
     "test": "🧪"
-  }
+  },
+  "useEmoji": false
 }
